@@ -1,0 +1,23 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-color: bisque;
+}
+
+.title {
+    text-align: center;
+    background-color: cornsilk;
+    font-size: 60px;
+    text-align: center;
+}
+
+.list {
+    text-align: center;
+    font-size: 30px;
+}
+
+.centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}

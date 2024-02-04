@@ -1,0 +1,31 @@
+p {
+    color: black;
+    font-family: "Verdana", DejaVu Sans;
+
+}
+
+div {
+   font-family: "Verdana", DejaVu Sans; 
+}
+
+.small {
+    background-color: rgb(205, 141, 161);
+    font-size: 20px;
+}
+
+.larger {
+    background-color: rgb(205, 141, 161);
+    font-size: 24px;
+}
+
+#blue {
+    font-size: 36px;
+    color: blue;
+}
+
+#green {
+    font-size: 24px;
+    color: black;
+    background-color: rgb(84, 231, 121);
+    font-weight: bold;
+}
